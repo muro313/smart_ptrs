@@ -1,0 +1,3 @@
+/home/murad/CLionProjects/smart_ptrs/cmake-build-debug/CMakeFiles/smart_ptrs.dir
+/home/murad/CLionProjects/smart_ptrs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/murad/CLionProjects/smart_ptrs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
